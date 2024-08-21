@@ -4,7 +4,7 @@ title: Home
 ---
 
 ## Welcome everyone to my spiffy site!
-1111
+
 
 #### Here are some example pages:
 
